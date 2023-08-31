@@ -12,7 +12,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 ### Lógica de Programação e Orientação a Objetos
 
-#### **Módulo 01 - Lógica Imperativa**
+#### [**Módulo 01 - Lógica Imperativa**](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m1-logica-imperativa)
 
 - Entender a importância da lógica;
 - Usar a lógica para realizar ações simples e definir o passo a passo das ações;
