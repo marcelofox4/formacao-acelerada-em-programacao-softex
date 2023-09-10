@@ -2,7 +2,7 @@
 
 O meu algoritmo no Blockly ficou assim:
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/10-code-park/img/blockly-operadores.png'>
 
 O código em Javascript do **Blockly** ficou assim:
 
