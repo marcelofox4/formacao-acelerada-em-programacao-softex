@@ -39,3 +39,5 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Compreender a construção de um ambiente de desenvolvimento;
 - Conhecer os tipos básicos de variáveis em um código de programação;
   - [Code Park 09]()
+- Identificar os diferentes tipos de operadores;
+  - [Code Park 10]()
