@@ -38,29 +38,29 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Code Park  08](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/08-code-park)
 - Compreender a construção de um ambiente de desenvolvimento;
 - Conhecer os tipos básicos de variáveis em um código de programação;
-  - [Code Park 09]()
+  - [Code Park 09](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/09-code-park)
 - Identificar os diferentes tipos de operadores;
-  - [Code Park 10]()
+  - [Code Park 10](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/10-code-park)
 - Dominar as diferentes estruturas condicionais lógicas;
-  - [Code Park 11]()
+  - [Code Park 11](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/11-code-park)
 - Executar laços de repetição;
-  - [Code Park 12]()
+  - [Code Park 12](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/12-code-park)
 - Realizar entrada e saída de dados do usuário;
-  - [Code Park 13]()
+  - [Code Park 13](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/13-code-park)
 - Contornar problemas previstos no sistema;
-  - [Code Park 14]()
+  - [Code Park 14](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/14-code-park)
 - Elaborar tipos artificiais de dados;
-  - [Code Park 15]()
+  - [Code Park 15](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/15-code-park)
 
-#### [Módulo 02 - Algoritmo e Estrutura de dados]()
+#### [Módulo 03 - Algoritmo e Estrutura de dados](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados)
 
 - Arrays;
-  - [Code Park 16]()
+  - [Code Park 16](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/16-code-park)
 - Matrizes;
-  - [Code Park 17]()
+  - [Code Park 17](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/17-code-park)
 - Listas, Pilhas e Filas;
-  - [Code Park 18]()
+  - [Code Park 18](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/18-code-park)
 - Estruturas dinâmicas;
-  - [Code Park 19]()
+  - [Code Park 19](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/19-code-park)
 - Algoritmos de busca;
-  - [Code Park 20]()
+  - [Code Park 20](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/20-code-park)
