@@ -1,63 +1,48 @@
 # Resolução do problema
 
-O código da resolução do problema está logo abaixo:
+O meu algoritmo no Google Blockly ficou assim:
 
-```jsx
-function calculadora(num1, num2, operacao) {
-    // 1 - Soma
-    if(operacao == 1) {
-        return num1 + num2;
-    }
+<img src=''>
 
-    // 2 - Subtração
-    if(operacao == 2) {
-        return num1 - num2;
-    }
-    
-    // 3 - Multiplicação
-    if(operacao == 3) {
-        return num1 * num2;
-    }
-    
-    // 4 - Divisão
-    if(operacao == 4) {
-        if(num2 == 0) {
-            return null;
-        }
-        return num1 / num2
-    }
+O link do projeto:
 
-	// Operação inexistente
-    if(operacao == 0 || operacao > 4) {
-        return 0;
-    }
-}
-
-let numero1 = Number(prompt("Digite o primeiro número: "))
-let numero2 = Number(prompt("Digite o segundo número: "))
-let operacao = prompt(`Digite qual operação você deseja executar: 
-Soma = 1
-Subtração = 2
-Multiplicação = 3
-Divisão = 4
---> `);
-
-console.log(`Resultado da Operação: ${calculadora(numero1, numero2, operacao)}`);
-```
+[Blockly Demo:](https://blockly-demo.appspot.com/static/demos/code/index.html?lang=pt-br#py3sx7)
 
 <br>
 
-Para executar o algoritmo, siga o passo a passo:
-
-1 - Basta clicar no link: **[executar algoritmo](https://www.programiz.com/javascript/online-compiler/)**;
-
-2 - Apagar o código:
+O código que Google Blockly cria:
 
 ```jsx
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
+var num1, num2, operacao;
 
-console.log("Welcome to Programiz!");
+// Descreva esta função...
+function Calculadora(num1, num2, operacao) {
+  if (operacao == 1) {
+    return num1 + num2;
+  }
+  if (operacao == 2) {
+    return num1 - num2;
+  }
+  if (operacao == 3) {
+    return num1 * num2;
+  }
+  if (operacao == 4) {
+    return num1 / num2;
+  }
+  return null;
+}
+
+while (true) {
+  operacao = Number(window.prompt('Qual operação você deseja realizar: [1] - SOMA | [2] - SUBTRAÇÃO | [3] - MULTIPLICAÇÃO | [4] - DIVISÃO | [0] - SAIR'));
+  if (operacao == 0) {
+    break;
+  } else if (operacao > 4) {
+    window.alert('Opção INVÁLIDA! Escolha uma das opções de operação a seguir!');
+    continue;
+  } else {
+    num1 = Number(window.prompt('Digite o Primeiro número: '));
+    num2 = Number(window.prompt('Digite o segundo número: '));
+    window.alert('O seu Resultado é: ' + String(Calculadora(num1, num2, operacao)));
+  }
+}
 ```
-
-3 - Copiar o meu algoritmo no arquivo criado e executar no botão azul → Run.
