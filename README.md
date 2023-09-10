@@ -41,3 +41,5 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Code Park 09]()
 - Identificar os diferentes tipos de operadores;
   - [Code Park 10]()
+- Dominar as diferentes estruturas condicionais lógicas;
+  - [Code Park 11]()
