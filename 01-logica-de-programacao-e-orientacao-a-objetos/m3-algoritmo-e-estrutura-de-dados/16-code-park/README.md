@@ -2,17 +2,12 @@
 
 ## Instrução do Projeto
 
-Desenvolva um código que simule uma eleição com três candidatos.
+Você deve criar três listas em JavaScript:
 
-- candidato_X => 889
-- candidato_Y => 847
-- candidato_Z => 515
-- branco => 0
-
-<br>
-
-O código deve perguntar se deseja finalizar a votação depois do voto. Caso o número do voto não corresponda a nenhum candidato ou seja branco, ele deve ser tratado como nulo. Se for inserido um texto ao invés de número, o código deve retornar uma mensagem para votar novamente.
+1. para guardar os nomes de dez pessoas;
+2. para guardar as suas idades;
+3. para guardar as suas cores favoritas.
 
 <br>
 
-Quando a votação for finalizada, o código deverá mostrar o vencedor, aquele com o maior número de votos e, também, a quantidade de votos de cada candidato, os brancos e nulos.
+Em seguida, imprima essas listas. Depois, faça algumas modificações, alterando uma cor e uma idade. Ao terminar, imprima novamente todas as informações das três listas.
