@@ -4,7 +4,7 @@ A minha representação do algorítimo de dizer se o Aluno foi APROVADO ou REPRO
 
 <br>
 
-<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/08-code-park/img'>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/08-code-park/img/blockly-media-aluno.png'>
 
 O código em Javascript do **Blockly** ficou assim:
 
