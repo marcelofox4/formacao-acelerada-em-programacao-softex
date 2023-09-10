@@ -51,3 +51,16 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Code Park 14]()
 - Elaborar tipos artificiais de dados;
   - [Code Park 15]()
+
+#### [Módulo 02 - Algoritmo e Estrutura de dados]()
+
+- Arrays;
+  - [Code Park 16]()
+- Matrizes;
+  - [Code Park 17]()
+- Listas, Pilhas e Filas;
+  - [Code Park 18]()
+- Estruturas dinâmicas;
+  - [Code Park 19]()
+- Algoritmos de busca;
+  - [Code Park 20]()
