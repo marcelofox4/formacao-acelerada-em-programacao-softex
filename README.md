@@ -31,3 +31,9 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Usar métodos de repetição sempre que necessário para facilitar as situações que aparecem no decorrer do dia, a fim de agilizar os processos.
   - [Code Park 07](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m1-logica-imperativa/07-code-park)
 
+#### [Módulo 02 - Introdução a Programação](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao)
+
+- Compreender conceitos lógicos da programação de sistemas;
+- Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado;
+  - [Code Park  08](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/08-code-park)
+- 
