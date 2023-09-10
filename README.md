@@ -36,4 +36,6 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Compreender conceitos lógicos da programação de sistemas;
 - Identificar as etapas do sistema de programação de um algoritmo estruturado e não estruturado;
   - [Code Park  08](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m2-introducao-a-programacao/08-code-park)
-- 
+- Compreender a construção de um ambiente de desenvolvimento;
+- Conhecer os tipos básicos de variáveis em um código de programação;
+  - [Code Park 09]()
