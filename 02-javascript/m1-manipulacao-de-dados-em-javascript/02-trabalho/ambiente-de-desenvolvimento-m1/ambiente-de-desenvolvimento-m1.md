@@ -10,19 +10,19 @@ O ambiente escolhido por mim foi o editor de texto Visual Studio Code, mais conh
 
 1 - Gosto de deixar a funcionalidade de Auto Save habilitada, assim não preciso estar o tempo todo dando Ctrl + S para salvar os arquivos que estou editando.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-autosave.png'>
 
 <br>
 
 2 - Habilitar a o Word Wrap para quebra de linhas que ultrapassem a tela do editor.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-word-wrap.png'>
 
 <br>
 
 3 - Desabilitar a funcionalidade de Minimap.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-minimap.png'>
 
 <br>
 
@@ -30,7 +30,7 @@ O ambiente escolhido por mim foi o editor de texto Visual Studio Code, mais conh
 
 1 - Utilizarei como Theme o Dracula, para melhor visualização do código.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-theme-dracula.png'>
 
 <br>
 
@@ -42,13 +42,13 @@ O ambiente escolhido por mim foi o editor de texto Visual Studio Code, mais conh
 
 3 - Outra interessante é a extensão de Live Server, que funciona como um localhost.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-live-server.png'>
 
 <br>
 
 4 - A Rainbow Brackets server para facilitar a visualização de chaves, colchetes e parenteses.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-rainbow-brackets.png'>
 
 <br>
 
