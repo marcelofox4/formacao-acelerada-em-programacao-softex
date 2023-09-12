@@ -88,4 +88,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Compreender linguagens baseada em JavaScript;
   - [Trabalho 06]()
 - Diferenciar os tipos de operadores em JavaScript;
-  - [Tabalho 07]()
+  - [Trabalho 07]()
+- Entender as características de variáveis no JavaScript;
+- Diferenciar os tipos de atribuição em uma variável;
+  - [Trabalho 08]()
