@@ -1,7 +1,5 @@
 # Resolução do problema
 
-## Primeiro Site
-
 O ambiente escolhido por mim foi o editor de texto Visual Studio Code, mais conhecido como VS Code. O VS Code é um editor de texto de código aberto desenvolvido pela Microsoft, é muito utilizado por desenvolvedores de JavaScript. Apesar de ser um editor de código, e não uma IDE, o comportamento dele lembra o funcionamento de um ambiente integrado de desenvolvimento, onde é possível: “debugar” o código, abrir terminais integrados, git integrado, além de ter inúmeras extensões.
 
 <br>
@@ -36,7 +34,7 @@ O ambiente escolhido por mim foi o editor de texto Visual Studio Code, mais conh
 
 2 - Também instalarei a extensão do vscode-icons.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho/ambiente-de-desenvolvimento-m1/img/print-vscode-icons.png'>
 
 <br>
 
