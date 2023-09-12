@@ -1,0 +1,15 @@
+{
+  "name": "primeiro_projeto_node",
+  "version": "1.0.0",
+  "description": "Primeiro projeto de Node.js utilizando o npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "primeiro",
+    "projeto"
+  ],
+  "author": "Marcelo Raposo",
+  "license": "ISC"
+}

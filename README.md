@@ -92,3 +92,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Entender as características de variáveis no JavaScript;
 - Diferenciar os tipos de atribuição em uma variável;
   - [Trabalho 08](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m2-estruturas-e-variaveis-em-javascript/08-trabalho)
+
+#### [Módulo 03 - Utilizando padrões]()
+
+- Saber organizar a máquina para programar;
+  - [Trabalho 09]()
