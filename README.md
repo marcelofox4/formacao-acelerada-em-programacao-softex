@@ -83,3 +83,9 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Compreender a funcionalidade de variáveis;
   - [Trabalho 05](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/05-trabalho)
 
+#### [Módulo 02 - Estruturas e variáveis em JavaScript]()
+
+- Compreender linguagens baseada em JavaScript;
+  - [Trabalho 06]()
+- Diferenciar os tipos de operadores em JavaScript;
+  - [Tabalho 07]()
