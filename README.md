@@ -93,10 +93,11 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Diferenciar os tipos de atribuição em uma variável;
   - [Trabalho 08](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m2-estruturas-e-variaveis-em-javascript/08-trabalho)
 
-#### [Módulo 03 - Utilizando padrões]()
+#### [Módulo 03 - Utilizando padrões](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m3-utilizando-padroes)
 
 - Saber organizar a máquina para programar;
-  - [Trabalho 09]()
+  - [Trabalho 09](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m3-utilizando-padroes/09-trabalho)
 - Saber utilizar a linguagem em conjunto com o HTML;
 - Aplicar as funções em seu código;
-  - [Trabalho 10]()
+  - [Trabalho 10](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m3-utilizando-padroes/10-trabalho)
+
