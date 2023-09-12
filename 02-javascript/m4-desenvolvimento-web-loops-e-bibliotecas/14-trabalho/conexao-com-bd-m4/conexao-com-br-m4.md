@@ -82,4 +82,4 @@ A minha estrutura do projeto ficou da seguinte forma:
 
 O projeto completo se encontra no link abaixo:
 
-[javascript-m04-sequelize]()
+[javascript-m04-sequelize](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/14-trabalho/conexao-com-bd-m4/javascript-m04-sequelize)
