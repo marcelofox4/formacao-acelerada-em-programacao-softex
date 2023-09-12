@@ -71,4 +71,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 - Conhecer a história do JavaScript e compreender suas funções básicas;
 - Identificar a finalidade da linguagem para o contexto web;
-  - Trabalho 01;
+  - [Trabalho 01]()
+- Diferenciar os ambientes existentes para desenvolvimento em JavaScript;
+  - [Trabalho 02]()
+- 
