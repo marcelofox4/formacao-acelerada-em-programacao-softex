@@ -64,3 +64,11 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Code Park 19](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/19-code-park)
 - Algoritmos de busca;
   - [Code Park 20](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/01-logica-de-programacao-e-orientacao-a-objetos/m3-algoritmo-e-estrutura-de-dados/20-code-park)
+
+### JavaScript
+
+#### [Módulo 01 - Manipulação de dados em JavaScript]()
+
+- Conhecer a história do JavaScript e compreender suas funções básicas;
+- Identificar a finalidade da linguagem para o contexto web;
+  - Trabalho 01;
