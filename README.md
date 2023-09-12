@@ -74,4 +74,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 01]()
 - Diferenciar os ambientes existentes para desenvolvimento em JavaScript;
   - [Trabalho 02]()
+- Compreender o funcionamento de dados em JavaScript;
+  - [Trabalho 03]()
+- Diferenciar os tipos de dados;
+  - [Trabalho 04]()
 - 
