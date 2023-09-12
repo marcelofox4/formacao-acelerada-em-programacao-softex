@@ -78,4 +78,6 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 03]()
 - Diferenciar os tipos de dados;
   - [Trabalho 04]()
-- 
+- Compreender a funcionalidade de variáveis;
+  - [Trabalho 05]()
+
