@@ -97,3 +97,6 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 - Saber organizar a máquina para programar;
   - [Trabalho 09]()
+- Saber utilizar a linguagem em conjunto com o HTML;
+- Aplicar as funções em seu código;
+  - [Trabalho 10]()
