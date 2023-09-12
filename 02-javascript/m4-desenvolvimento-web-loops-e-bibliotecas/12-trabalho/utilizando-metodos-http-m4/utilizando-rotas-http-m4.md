@@ -2,7 +2,7 @@
 
 Para a resolução do trabalho foi necessário instalar o express.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/01-instalacao-do-express.png'>
 
 <br>
 
@@ -18,7 +18,7 @@ Codifiquei as seguintes rotas:
 
 O código ficou assim:
 
-[rotas-http.js]()
+[rotas-http.js](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/javascript-m04-rotas-http/rotas-http.js)
 
 <br>
 
@@ -28,7 +28,7 @@ Para teste das rotas utilizei o Insomnia, segue os “prints” dos testes:
 
 url: `http://localhost:3000/teste-get`
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/02-teste-insomnia-get.png'>
 
 ```jsx
 app.get('/teste-get', (request, response) => {
@@ -47,13 +47,13 @@ app.get('/teste-get', (request, response) => {
 
 url: `http://localhost:3000/teste-post/5`
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/03-teste-insomnia-post.png'>
 
 <br>
 
 url: `http://localhost:3000/teste-post/6`
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/04-teste-insomnia-post.png'>
 
 ```jsx
 app.post('/teste-post/:number', (request, response) => {
@@ -67,7 +67,7 @@ app.post('/teste-post/:number', (request, response) => {
 
 Ao exibir o array utilizando `http://localhost:3000/teste-get` é possível ver que os números foram adicionados:
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/05-verificacao-de-array.png'>
 
 <br>
 
@@ -75,7 +75,7 @@ Ao exibir o array utilizando `http://localhost:3000/teste-get` é possível ver 
 
 url: `http://localhost:3000/teste-delete/3`
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/06-teste-insomnia-delete.png'>
 
 ```jsx
 app.delete('/teste-delete/:number', (request, response) => {
@@ -89,7 +89,7 @@ app.delete('/teste-delete/:number', (request, response) => {
 
 Ao exibir o array utilizando `http://localhost:3000/teste-get` é possível perceber que o número 3 foi retirado do array.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/07-verificacao-do%20array.png'>
 
 <br>
 
@@ -97,7 +97,7 @@ Ao exibir o array utilizando `http://localhost:3000/teste-get` é possível perc
 
 url: `http://localhost:3000/teste-put/1/700`
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/08-teste-insomnia-put.png'>
 
 ```jsx
 app.put('/teste-put/:number/:numberTroca', (request, response) => {
@@ -112,4 +112,4 @@ app.put('/teste-put/:number/:numberTroca', (request, response) => {
 
 Ao exibir o array utilizando `http://localhost:3000/teste-get` é possível perceber que o número 1 foi editado para 700.
 
-<img src=''>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho/utilizando-metodos-http-m4/img/09-verificacao-array.png'>
