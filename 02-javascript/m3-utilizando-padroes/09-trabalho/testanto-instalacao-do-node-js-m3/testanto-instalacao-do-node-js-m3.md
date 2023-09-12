@@ -22,7 +22,7 @@ Dando uma olhada dentro do arquivo `package.json`.
 
 No arquivo `index.js`, foi inserido o algoritmo do sistema de notas, de uma dos trabalhos do curso, segue o código:
 
-[primeiro_projeto_node]()
+[primeiro_projeto_node](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m3-utilizando-padroes/09-trabalho/testanto-instalacao-do-node-js-m3/primeiro_projeto_node)
 
 <br>
 
