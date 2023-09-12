@@ -82,6 +82,8 @@ Tem Diploma: boolean
 */
 ```
 
+<br>
+
 O código completo se encontra no link abaixo:
 
-[cadastro-de-pessoa.js]()
+[cadastro-de-pessoa.js](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/04-trabalho/cadastro-de-pessoa-m1/javascript-m01-cadastro-de-pessoa/cadastro-de-pessoa.js)
