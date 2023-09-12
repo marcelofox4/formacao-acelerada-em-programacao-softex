@@ -117,4 +117,4 @@ symbol
 
 O código completo se encontra no link abaixo:
 
-[manipulando-dados.js]()
+[manipulando-dados.js](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/03-trabalho/manipulando-dados-m1/javascript-m01-manipulando-dados/manipulando-dados.js)
