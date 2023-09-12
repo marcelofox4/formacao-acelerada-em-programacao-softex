@@ -112,3 +112,6 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Conseguir utilizar framework no seu projeto;
 - Conhecer a diferença das estruturas de repetição em JavaScript;
   - [Trabalho 13]()
+- Conseguir conectar o banco de dados em seu programa
+  - [Trabalho 14]()
+- 
