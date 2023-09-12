@@ -101,17 +101,17 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Aplicar as funções em seu código;
   - [Trabalho 10](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m3-utilizando-padroes/10-trabalho)
 
-#### [Módulo 04 - Desenvolvimento web, loops e bibliotecas]()
+#### [Módulo 04 - Desenvolvimento web, loops e bibliotecas](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas)
 
 - Conhecer a estrutura de um objeto;
-  - [Trabalho 11]()
+  - [Trabalho 11](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/11-trabalho)
 - Identificar arrays durante sua programação;
 - Conhecer como se dá a comunicação do back-end com o front-end;
 - Utilizar os métodos HTTP em sua programação;
-  - [Trabalho 12]()
+  - [Trabalho 12](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/12-trabalho)
 - Conseguir utilizar framework no seu projeto;
 - Conhecer a diferença das estruturas de repetição em JavaScript;
-  - [Trabalho 13]()
+  - [Trabalho 13](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/13-trabalho)
 - Conseguir conectar o banco de dados em seu programa
-  - [Trabalho 14]()
-- 
+  - [Trabalho 14](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/14-trabalho)
+
