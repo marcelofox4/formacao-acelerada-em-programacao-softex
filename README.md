@@ -83,12 +83,12 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Compreender a funcionalidade de variáveis;
   - [Trabalho 05](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/05-trabalho)
 
-#### [Módulo 02 - Estruturas e variáveis em JavaScript]()
+#### [Módulo 02 - Estruturas e variáveis em JavaScript](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m2-estruturas-e-variaveis-em-javascript)
 
 - Compreender linguagens baseada em JavaScript;
-  - [Trabalho 06]()
+  - [Trabalho 06](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m2-estruturas-e-variaveis-em-javascript/06-trabalho)
 - Diferenciar os tipos de operadores em JavaScript;
-  - [Trabalho 07]()
+  - [Trabalho 07](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m2-estruturas-e-variaveis-em-javascript/07-trabalho)
 - Entender as características de variáveis no JavaScript;
 - Diferenciar os tipos de atribuição em uma variável;
-  - [Trabalho 08]()
+  - [Trabalho 08](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m2-estruturas-e-variaveis-em-javascript/08-trabalho)
