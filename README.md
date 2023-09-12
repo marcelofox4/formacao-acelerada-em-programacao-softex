@@ -67,17 +67,17 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 ### JavaScript
 
-#### [Módulo 01 - Manipulação de dados em JavaScript]()
+#### [Módulo 01 - Manipulação de dados em JavaScript](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript)
 
 - Conhecer a história do JavaScript e compreender suas funções básicas;
 - Identificar a finalidade da linguagem para o contexto web;
-  - [Trabalho 01]()
+  - [Trabalho 01](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/01-trabalho)
 - Diferenciar os ambientes existentes para desenvolvimento em JavaScript;
-  - [Trabalho 02]()
+  - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/02-trabalho)
 - Compreender o funcionamento de dados em JavaScript;
-  - [Trabalho 03]()
+  - [Trabalho 03](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/03-trabalho)
 - Diferenciar os tipos de dados;
-  - [Trabalho 04]()
+  - [Trabalho 04](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/04-trabalho)
 - Compreender a funcionalidade de variáveis;
-  - [Trabalho 05]()
+  - [Trabalho 05](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m1-manipulacao-de-dados-em-javascript/05-trabalho)
 
