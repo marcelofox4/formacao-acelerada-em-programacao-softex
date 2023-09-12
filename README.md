@@ -101,3 +101,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Aplicar as funções em seu código;
   - [Trabalho 10](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m3-utilizando-padroes/10-trabalho)
 
+#### [Módulo 04 - Desenvolvimento web, loops e bibliotecas]()
+
+- Conhecer a estrutura de um objeto;
+  - [Trabalho 11]()
