@@ -105,3 +105,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 - Conhecer a estrutura de um objeto;
   - [Trabalho 11]()
+- Identificar arrays durante sua programação;
+- Conhecer como se dá a comunicação do back-end com o front-end;
+- Utilizar os métodos HTTP em sua programação
+  - [Trabalho 12]()
