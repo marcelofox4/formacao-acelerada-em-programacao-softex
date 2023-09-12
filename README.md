@@ -107,5 +107,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 11]()
 - Identificar arrays durante sua programação;
 - Conhecer como se dá a comunicação do back-end com o front-end;
-- Utilizar os métodos HTTP em sua programação
+- Utilizar os métodos HTTP em sua programação;
   - [Trabalho 12]()
+- Conseguir utilizar framework no seu projeto;
+- Conhecer a diferença das estruturas de repetição em JavaScript;
+  - [Trabalho 13]()
