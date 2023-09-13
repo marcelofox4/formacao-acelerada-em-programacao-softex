@@ -24,4 +24,4 @@ console.log(adivinhaParOuImpar(2)); // Saída: Par
 
 O link do projeto completo está logo abaixo:
 
-[javascript-m05-par-ou-impar]()
+[javascript-m05-par-ou-impar](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m5-programacao-orientada-a-objetos/18-trabalho/par-ou-impar-m5/par-ou-impar-m5.md)
