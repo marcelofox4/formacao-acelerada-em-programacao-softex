@@ -430,4 +430,4 @@ Não é possível depositar, é necessário acessar a conta!
 
 Link do projeto completo no link abaixo:
 
-[javascript-m05-objetos-materiais-abstratos]()
+[javascript-m05-objetos-materiais-abstratos](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/16-trabalho/objetos-materiais-e-abstratos-m5/javascript-m05-objetos-materiais-abstratos)
