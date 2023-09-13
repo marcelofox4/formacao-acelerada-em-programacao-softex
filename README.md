@@ -122,3 +122,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Assimilar a lógica de programação orientada a objetos;
 - Definir como o atributo ou método se comporta dentro de programas;
   - [Trabalho 16]()
+- Entender a função de cada tipo de visibilidade;
+- Compreender a funcionalidade de atributos e métodos estáticos;
+  - [Trabalho 17]()
+
