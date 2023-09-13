@@ -125,4 +125,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Entender a função de cada tipo de visibilidade;
 - Compreender a funcionalidade de atributos e métodos estáticos;
   - [Trabalho 17]()
+- Identificar a necessidade de utilizar as estruturas de controle e decisão;
+  - [Trabalho 18]()
+
 
