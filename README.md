@@ -115,3 +115,10 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Conseguir conectar o banco de dados em seu programa
   - [Trabalho 14](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/14-trabalho)
 
+#### [Módulo 05 - Programação Orientada a Objetos]()
+
+- Compreender e implementar tipos abstratos de dados;
+  - [Trabalho 15]()
+- Assimilar a lógica de programação orientada a objetos;
+- Definir como o atributo ou método se comporta dentro de programas;
+  - [Trabalho 16]()
