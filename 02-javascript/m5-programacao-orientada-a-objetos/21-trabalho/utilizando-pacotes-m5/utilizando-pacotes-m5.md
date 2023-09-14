@@ -78,7 +78,7 @@ Segunda parte concatenada com arrayDois: [ 7, 12, 4, 45 ]
 
 O código completo da manipulação dos arrays com a biblioteca Lodash:
 
-[javascript-m05-utilizando-pacotes]()
+[javascript-m05-utilizando-pacotes](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/21-trabalho/utilizando-pacotes-m5/javascript-m05-utilizando-pacotes)
 
 ## Referências:
 
