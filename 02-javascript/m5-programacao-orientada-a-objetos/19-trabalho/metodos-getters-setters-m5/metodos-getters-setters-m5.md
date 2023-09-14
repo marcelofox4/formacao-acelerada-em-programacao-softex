@@ -98,4 +98,4 @@ Nova cor: Vermelho
 
 O link do projeto completo está logo abaixo:
 
-[javascript-m05-metodos-getters-setters]()
+[javascript-m05-metodos-getters-setters](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/19-trabalho/metodos-getters-setters-m5/javascript-m05-metodos-getters-setters)
