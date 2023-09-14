@@ -28,9 +28,9 @@ No casso de Luiza só será utilizada a categoria de manipulação de Array.
 
 Segundo a [documentação do Lodash](https://lodash.com/), os comandos a serem utilizados são: `npm i -g npm` e `npm i --save lodash`. Segue um print dos comandos sendo executados no terminal:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3a6d463f-cf47-4e07-9103-39b1db7c87a2/06dff75a-926b-40de-842a-c8a3652d61b2/Untitled.png)
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m5-programacao-orientada-a-objetos/21-trabalho/utilizando-pacotes-m5/img/01-instalacao-biblioteca-lodash.png'>
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3a6d463f-cf47-4e07-9103-39b1db7c87a2/fc857342-0753-4a26-8e3f-609d841e952b/Untitled.png)
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m5-programacao-orientada-a-objetos/21-trabalho/utilizando-pacotes-m5/img/02-instalacao-biblioteca-lodash.png'>
 
 <br>
 
