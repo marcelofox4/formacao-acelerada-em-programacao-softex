@@ -128,4 +128,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Identificar a necessidade de utilizar as estruturas de controle e decisão;
   - [Trabalho 18]()
 
+- Assimilar a função do método construtor e da sobrecarga;
+  - [Trabalho 19]()
+
 
