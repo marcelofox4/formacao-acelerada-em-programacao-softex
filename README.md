@@ -115,23 +115,23 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Conseguir conectar o banco de dados em seu programa
   - [Trabalho 14](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m4-desenvolvimento-web-loops-e-bibliotecas/14-trabalho)
 
-#### [Módulo 05 - Programação Orientada a Objetos]()
+#### [Módulo 05 - Programação Orientada a Objetos](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos)
 
 - Compreender e implementar tipos abstratos de dados;
   - [Trabalho 15]()
 - Assimilar a lógica de programação orientada a objetos;
 - Definir como o atributo ou método se comporta dentro de programas;
-  - [Trabalho 16]()
+  - [Trabalho 16](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/16-trabalho)
 - Entender a função de cada tipo de visibilidade;
 - Compreender a funcionalidade de atributos e métodos estáticos;
-  - [Trabalho 17]()
+  - [Trabalho 17](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/17-trabalho)
 - Identificar a necessidade de utilizar as estruturas de controle e decisão;
-  - [Trabalho 18]()
+  - [Trabalho 18](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/18-trabalho)
 
 - Assimilar a função do método construtor e da sobrecarga;
-  - [Trabalho 19]()
+  - [Trabalho 19](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/19-trabalho)
 
 - Compreender a finalidade da Herança;
-  - [Trabalho 20]()
+  - [Trabalho 20](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/20-trabalho)
 
 
