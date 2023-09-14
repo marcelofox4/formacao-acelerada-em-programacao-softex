@@ -137,4 +137,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Compreender a funcionalidade de Pacotes;
   - [Trabalho 21]()
 
+- Associar a função de Vetores e Matrizes;
+  - [Trabalho 22]()
+
 
