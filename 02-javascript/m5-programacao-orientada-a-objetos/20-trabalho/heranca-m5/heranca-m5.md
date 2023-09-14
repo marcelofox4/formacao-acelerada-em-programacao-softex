@@ -98,4 +98,4 @@ Saída:
 
 O link do projeto completo está logo abaixo:
 
-[javascript-m05-heranca]()
+[javascript-m05-heranca](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/20-trabalho/heranca-m5/javascript-m05-heranca)
