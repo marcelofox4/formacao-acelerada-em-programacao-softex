@@ -135,9 +135,9 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 20](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/20-trabalho)
 - Entender o que são classes abstratas e interfaces;
 - Compreender a funcionalidade de Pacotes;
-  - [Trabalho 21]()
+  - [Trabalho 21](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/21-trabalho)
 
 - Associar a função de Vetores e Matrizes;
-  - [Trabalho 22]()
+  - [Trabalho 22](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/22-trabalho)
 
 
