@@ -111,4 +111,5 @@ bd.exibir();
 
 O link do projeto completo se encontra abaixo:
 
-[javascript-m05-manipulando-strings]()
+[javascript-m05-manipulando-strings](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/23-trabalho/manipulando-strings-m5/javascript-m05-manipulando-strings)
+
