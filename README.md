@@ -139,5 +139,6 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 - Associar a função de Vetores e Matrizes;
   - [Trabalho 22](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/22-trabalho)
-
+- Diferenciar as formas de manipulação de strings;
+  - [Trabalho 23]()
 
