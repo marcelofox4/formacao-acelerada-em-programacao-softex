@@ -73,4 +73,4 @@ while (opcao === 'S') {
 
 O projeto completo se encontra logo abaixo:
 
-[javascript-m05-trabalhando-com-excecoes]()
+[javascript-m05-trabalhando-com-excecoes](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/24-trabalho/trabalhando-com-excecoes-m5/javascript-m05-trabralhando-com-excecoes)
