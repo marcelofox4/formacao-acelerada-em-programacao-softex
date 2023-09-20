@@ -144,6 +144,6 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 23](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/23-trabalho)
 - Compreender a funcionalidade de Collections (Set, List, Queue, Stack e Map);
 - Conceituar o que é tratamento de exeções.
-  - [Trabalho 24]()
+  - [Trabalho 24](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/24-trabalho)
 
 
