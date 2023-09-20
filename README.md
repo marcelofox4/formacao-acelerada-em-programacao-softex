@@ -118,7 +118,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 #### [Módulo 05 - Programação Orientada a Objetos](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos)
 
 - Compreender e implementar tipos abstratos de dados;
-  - [Trabalho 15]()
+  - Trabalho 15 - Foi tirado do Curso!
+
 - Assimilar a lógica de programação orientada a objetos;
 - Definir como o atributo ou método se comporta dentro de programas;
   - [Trabalho 16](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/16-trabalho)
@@ -141,4 +142,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 22](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/22-trabalho)
 - Diferenciar as formas de manipulação de strings;
   - [Trabalho 23](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/23-trabalho)
+- Compreender a funcionalidade de Collections (Set, List, Queue, Stack e Map);
+- Conceituar o que é tratamento de exeções.
+  - [Trabalho 24]()
+
 
