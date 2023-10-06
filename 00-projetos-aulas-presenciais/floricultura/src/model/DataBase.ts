@@ -2,7 +2,9 @@ import Client from "./Client";
 import Product from "./Product";
 import Sale from "./Sale";
 
+// Aplicando Padrão de Projeto Singleton
 class DataBase {
+    private static instance: DataBase;
     private clientStorage: Array<Client>;
     private productStorage: Array<Product>;
     private saleStorage: Array<Sale>;
@@ -13,9 +15,22 @@ class DataBase {
         this.saleStorage = [];
     }
 
+    public static getInstance(): DataBase {
+        if (!this.instance) {
+            this.instance = new DataBase();
+        }
+        return this.instance;
+    }
+
+    public getClientStorage(): Array<Client> {
+        return this.clientStorage;
+    }
+
+    /*
     public showClients(): Array<Client> {
         return this.clientStorage;
     }
+    */
 
     public showProducts(): Array<Product> {
         return this.productStorage;
@@ -25,9 +40,11 @@ class DataBase {
         return this.saleStorage;
     }
 
+    /*
     public addClient(client: Client) {
         this.clientStorage.push(client);
     }
+    */
 
     public addProduct(product: Product) {
         this.productStorage.push(product);
@@ -37,10 +54,12 @@ class DataBase {
         this.saleStorage.push(sale);
     }
 
+    /*
     public searchClient(id: number): Client {
         let index = this.clientStorage.findIndex(client => client.getId() == id);
         return this.clientStorage[index];
     }
+    */
 
     public searchProduct(id: number): Product {
         let index = this.productStorage.findIndex(product => product.getId() == id);
@@ -52,12 +71,13 @@ class DataBase {
         return this.saleStorage[index];
     }
 
+    /*
     public deleteClient(id: number) {
         let client = this.searchClient(id);
         let index = this.clientStorage.indexOf(client);
         this.clientStorage.splice(index, 1);
     }
-
+    */
     public deleteProduct(id: number) {
         let product = this.searchProduct(id);
         let index = this.productStorage.indexOf(product);

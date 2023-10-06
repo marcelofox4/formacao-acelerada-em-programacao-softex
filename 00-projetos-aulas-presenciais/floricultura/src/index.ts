@@ -1,60 +1,72 @@
 import express from 'express';
-import Database from './model/DataBase';
-import Client from './model/Client';
-
-const database = new Database();
-
-const clientOne = new Client('111.222.333-44', 'Marcelo', '81 99988-7766', 'Rua A, 01');
-database.addClient(clientOne);
-const clientTwo = new Client('222.333.444-55', 'Emílio', '81 98877-6655', 'Rua B, 02');
-database.addClient(clientTwo);
-const clientThree = new Client('333.444.555-66', 'Richele', '81 97766-5544', 'Rua C, 03');
-database.addClient(clientThree);
-const clientFour = new Client('444.555.666-77', 'Claúdio', '81 96644-3322', 'Rua D, 04');
-database.addClient(clientFour);
+import ClientController from './controller/controllerClient';
 
 const server = express();
 server.use(express.json());
-
 const port = 3333;
 
-// http://localhost:3333/clients
-server.get('/clients', (req, res) => {
-    res.send(database.showClients());
+const clientController: ClientController = new ClientController();
+
+server.get('/lista-de-clientes', (req, res) => {
+    res.send(clientController.show());
 })
 
-// http://localhost:3333/client/888.777.888-77/João/81 96655-4422/Rua E, 05
-server.post('/client/:cpf/:name/:phoneNumber/:address', (req, res) => {
+server.get('/cliente/:id', (req, res) => {
+    let id: number = Number(req.params.id);
+    try {
+        let client = clientController.search(id);
+        res.send(client);
+    } catch (error) {
+        console.log(error);
+        res.send(`Não foi possível encontrar um Cliente com o ID: ${id}`)
+    }
+})
+
+server.post('/adicionar-cliente', (req, res) => {
     //TODO: validar os parametros.
-    let clientCpf = req.params.cpf;
-    let clientName = req.params.name;
-    let clientPhoneNumber = req.params.phoneNumber;
-    let clientAddress = req.params.address;
+    let clientCpf = req.body.cpf;
+    let clientName = req.body.name;
+    let clientPhoneNumber = req.body.phoneNumber;
+    let clientAddress = req.body.address;
 
-    let client = new Client(clientCpf, clientName, clientPhoneNumber, clientAddress);
-    database.addClient(client);
-
-    res.send(`Cliente ${clientName} cadastrado com Sucesso!`);
+    try {
+        let client = clientController.create(clientCpf, clientName, clientPhoneNumber, clientAddress);
+        clientController.add(client);
+        res.send(client);
+    } catch (error) {
+        console.log(error);
+        res.send("Não foi possível criar um Cliente, os dados são incompatíveis!")
+    }
 })
 
 // http://localhost:3333/client/5/Rua das larangeiras, 400/ 81 91111-1111
-server.put('/client/:id/:Address/:phoneNumber', (req, res) => {
+server.put('/modificar-cliente/:id', (req, res) => {
     let id = Number(req.params.id);
-    let address = req.params.Address;
-    let phoneNumber = req.params.phoneNumber;
-    let client = database.searchClient(id);
+    let address = req.body.address;
+    let phoneNumber = req.body.phoneNumber;
 
-    client.setAddress(address);
-    client.setPhoneNumber(phoneNumber);
-    res.send("Atualização realizada com sucesso!")
+
+    try {
+        clientController.update(id, address, phoneNumber);
+        res.send(clientController.show());
+    } catch (error) {
+        console.log(error);
+        res.send(`Cliente não encontrado com ID: ${id}<br>
+        OU<br> 
+        Dados Incorretos, inserir apenas:<br>
+        - Endereço<br>
+        - Telefone<br>
+        Favor verificar os dois!`);
+    }
+
 })
 
 // http://localhost:3333/client/3
 server.delete('/client/:id', (req, res) => {
     let id = Number(req.params.id);
-    database.deleteClient(id);
+    clientController.delete(id);
 
-    res.send(`Cliente com ID: ${id} foi removido com sucesso!`)
+    res.send(clientController.show())
 })
 
 server.listen(port, () => {
