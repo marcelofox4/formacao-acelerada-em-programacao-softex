@@ -10,11 +10,15 @@ class ClientController {
             const client: Client = new Client(cpf, name, phoneNumber, address);
             return client;
         }
-        throw new Error("Dados imconpatíveis");
+        throw new Error("Dados imcompatíveis");
     }
     
     public show(): Array<Client> {
         return database.getClientStorage();
+    }
+
+    public quantityClients(): number {
+        return database.getClientStorage().length;
     }
 
     public add(client: Client) {
@@ -27,12 +31,6 @@ class ClientController {
             throw new Error("Cliente inexistente!");
         }
         return database.getClientStorage()[index];
-    }
-
-    public delete(id: number) {
-        let client: Client = this.search(id);
-        let index: number = database.getClientStorage().indexOf(client);
-        database.getClientStorage().splice(index, 1);
     }
 
     public update(id: number, address?: string, phoneNumber?: string) {
@@ -51,6 +49,11 @@ class ClientController {
         throw new Error("Dados incorretos!");
     }
 
+    public delete(id: number) {
+        let client: Client = this.search(id);
+        let index: number = database.getClientStorage().indexOf(client);
+        database.getClientStorage().splice(index, 1);
+    }
 }
 const clientController = new ClientController();
 const clientOne = new Client('111.222.333-44', 'Marcelo', '81 99988-7766', 'Rua A, 01');

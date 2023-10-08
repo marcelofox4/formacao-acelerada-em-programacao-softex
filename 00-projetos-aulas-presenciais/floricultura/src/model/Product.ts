@@ -24,7 +24,7 @@ class Product {
     }
 
     public getDescription(): string {
-        return this.name;
+        return this.description;
     }
 
     public getPrice(): number {
@@ -35,20 +35,12 @@ class Product {
         return this.quantity;
     }
 
-    public setName(newName: string) {
-        this.name = newName;
-    }
-
-    public setDescription(newDescription: string) {
-        this.description = newDescription;
-    }
-
     public setPrice(newPrice: number) {
         this.price = newPrice;
     }
 
     public setQuantity(newQuantity: number) {
-        this.quantity = this.quantity
+        this.quantity = newQuantity;
     }
 }
 

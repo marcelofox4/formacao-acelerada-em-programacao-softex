@@ -146,4 +146,11 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Conceituar o que é tratamento de exeções.
   - [Trabalho 24](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/24-trabalho)
 
+### Padrões de Desenvolvimento de Software
+
+#### [Módulo 01 - Qual seria a melhor forma de Fernando fazer os bolos para que atenda todos os seus clientes diariamente?]()
+
+- Introduzir o que são padrões de projetos.
+- Introduzir o padrão Factory Method.
+  - [Trabalho 01]()
 
