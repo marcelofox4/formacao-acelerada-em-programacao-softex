@@ -141,4 +141,4 @@ RAM: 8, HDD: 1000, CPU: 2.4, Type: Server
 
 
 
-[calculadora-de-media.js](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/02-javascript/m1-manipulacao-de-dados-em-javascript/05-trabalho/calculadora-de-media-m1/javascript-m01-calculadora-de-media/calculadora-de-media.js)
+[padroes-de-projetos-m01-factory-method](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/01-trabalho/factory-method-m1/padroes-de-projetos-m01-factory-method)
