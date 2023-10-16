@@ -105,4 +105,4 @@ Então criaremos a lista de `ingredientes` que foi pedida no desafio, e logo em 
 
 Segue o link do projeto completo:
 
-[padroes-de-projetos-m02-decorator]()
+[padroes-de-projetos-m02-decorator](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m2-fernando-conseguiu-atender-satisfatoriamente-os-seus-clientes-como-ele-deve-organizar-seus-trabalhos-na-loja-para-aumentar-a-venda-dos-outros-produtos/03-trabalho/decorator-m2/padroes-de-projetos-m02-decorator)

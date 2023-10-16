@@ -159,4 +159,4 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 #### [Módulo 02 - Fernando conseguiu atender satisfatoriamente os seus clientes. Como ele deve organizar seus trabalhos na loja para aumentar a venda dos outros produtos?]()
 
 - Introduzir o padrão Decorator;
-  - [Trabalho 03]()
+  - [Trabalho 03](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m2-fernando-conseguiu-atender-satisfatoriamente-os-seus-clientes-como-ele-deve-organizar-seus-trabalhos-na-loja-para-aumentar-a-venda-dos-outros-produtos/03-trabalho)
