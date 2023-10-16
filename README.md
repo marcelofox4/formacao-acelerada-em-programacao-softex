@@ -154,6 +154,5 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Introduzir o padrão Factory Method;
   - [Trabalho 01](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/01-trabalho)
 - Introduzir o padrão Prototype;
-  - [Trabalho 02]()
-
+  - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/02-trabalho)
 
