@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const Aplicacao_1 = require("./model/Aplicacao");
+const veiculos = Aplicacao_1.Aplicacao.criarVeiculos();
+const veiculosClonados = Aplicacao_1.Aplicacao.clonarVeiculos(veiculos);
+console.log("Lista - Veículos");
+Aplicacao_1.Aplicacao.printVeiculos(veiculos);
+console.log('');
+console.log("Lista - Veículos Clonados");
+Aplicacao_1.Aplicacao.printVeiculos(veiculosClonados);

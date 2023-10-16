@@ -150,7 +150,10 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 #### [Módulo 01 - Qual seria a melhor forma de Fernando fazer os bolos para que atenda todos os seus clientes diariamente?](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software)
 
-- Introduzir o que são padrões de projetos.
-- Introduzir o padrão Factory Method.
+- Introduzir o que são padrões de projetos;
+- Introduzir o padrão Factory Method;
   - [Trabalho 01](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/01-trabalho)
+- Introduzir o padrão Prototype;
+  - [Trabalho 02]()
+
 
