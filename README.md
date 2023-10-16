@@ -156,3 +156,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Introduzir o padrão Prototype;
   - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/02-trabalho)
 
+#### [Módulo 02 - Fernando conseguiu atender satisfatoriamente os seus clientes. Como ele deve organizar seus trabalhos na loja para aumentar a venda dos outros produtos?]()
+
+- Introduzir o padrão Decorator;
+  - [Trabalho 03]()

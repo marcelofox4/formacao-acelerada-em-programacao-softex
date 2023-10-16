@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const FrangoAssado_1 = require("./model/FrangoAssado");
+const SanduichePadrao_1 = require("./model/SanduichePadrao");
+const ingredientes = new Map();
+ingredientes.set("Pepperoni", 0.99);
+ingredientes.set("Queijo Mussarela Ralado", 2.00);
+const sanduichePadrao = new SanduichePadrao_1.SanduichePadrao(ingredientes);
+const sanduicheFrango = new FrangoAssado_1.FrangoAssado(sanduichePadrao);
+console.log(`Sanduiche de Frango:\n-Pepperoni\n-Queijo Mussarela Ralado\n------------------------\nTotal: ${sanduicheFrango.preco()}`);
