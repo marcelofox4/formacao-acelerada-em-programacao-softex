@@ -113,4 +113,4 @@ Có, Có!
 
 
 
-[padroes-de-projetos-m02-adapter]()
+[padroes-de-projetos-m02-adapter](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m2-fernando-conseguiu-atender-satisfatoriamente-os-seus-clientes-como-ele-deve-organizar-seus-trabalhos-na-loja-para-aumentar-a-venda-dos-outros-produtos/04-trabalho/adapter-m2/padroes-de-projetos-m02-adapter)
