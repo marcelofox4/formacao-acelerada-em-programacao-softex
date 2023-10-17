@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "yarn": "^1.22.19"
+  },
+  "name": "padroes-de-projetos-m02-adapter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
