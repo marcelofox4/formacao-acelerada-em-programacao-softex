@@ -164,3 +164,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 04](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m2-fernando-conseguiu-atender-satisfatoriamente-os-seus-clientes-como-ele-deve-organizar-seus-trabalhos-na-loja-para-aumentar-a-venda-dos-outros-produtos/04-trabalho)
 - Introduzir o padrão arquitetural MVC.
 
+#### [Módulo 03 - Depois de aumentar as vendas da padaria Fernando gostaria de atender as sugestões de melhoria dos clientes. Como ele deve lidar com as sugestões?]()
+
+- Introduzir o padrão Strategy;
+  - [Trabalho 05]()
