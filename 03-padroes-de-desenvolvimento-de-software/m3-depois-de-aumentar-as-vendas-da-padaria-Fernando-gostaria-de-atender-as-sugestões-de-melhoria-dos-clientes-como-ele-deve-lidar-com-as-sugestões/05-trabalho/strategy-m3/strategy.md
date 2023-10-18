@@ -180,4 +180,4 @@ while (start == "1") {
 }
 ```
 
-[padroes-de-projetos-m03-strategy]()
+[padroes-de-projetos-m03-strategy](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m3-depois-de-aumentar-as-vendas-da-padaria-Fernando-gostaria-de-atender-as-sugest%C3%B5es-de-melhoria-dos-clientes-como-ele-deve-lidar-com-as-sugest%C3%B5es/05-trabalho/strategy-m3/padroes-de-projetos-m03-strategy)
