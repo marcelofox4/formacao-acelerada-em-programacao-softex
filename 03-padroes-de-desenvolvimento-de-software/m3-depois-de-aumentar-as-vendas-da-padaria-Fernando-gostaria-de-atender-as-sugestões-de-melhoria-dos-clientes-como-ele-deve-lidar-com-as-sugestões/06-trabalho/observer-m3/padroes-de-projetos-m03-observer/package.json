@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "typescript": "^5.2.2",
+    "yarn": "^1.22.19"
+  },
+  "name": "padroes-de-projetos-m03-observer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
