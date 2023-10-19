@@ -114,6 +114,9 @@ Saidas:
 */
 ```
 
+<br>
 
+O projeto completo se encontra no link abaixo:
 
-[padroes-de-projetos-m03-observer]()
+[padroes-de-projetos-m03-observer](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m3-depois-de-aumentar-as-vendas-da-padaria-Fernando-gostaria-de-atender-as-sugest%C3%B5es-de-melhoria-dos-clientes-como-ele-deve-lidar-com-as-sugest%C3%B5es/06-trabalho/observer-m3/padroes-de-projetos-m03-observer)
+
