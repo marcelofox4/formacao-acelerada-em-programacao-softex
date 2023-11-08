@@ -1,5 +1,5 @@
 import "reflect-metadata";
-import express from "express";
+import express, { request, response } from "express";
 import { AppDataSource } from "./database/data-source";
 import { User } from "./entities/User";
 
@@ -15,12 +15,23 @@ async function create(nome: string): Promise<void> {
     await userRepository.save(customer);
 }
 
+async function list(): Promise<User[]> {
+    const users = await userRepository.find();
+    return users;
+}
+
 app.post("/usuarios", async (request, response) => {
     
     const { name } = request.body;
     await create(name);
 
     return response.status(201).json({message: "Usuário criado!"});
+})
+
+app.get("/usuarios", async (request, response) => {
+    const users = await list();
+
+    return response.status(200).json(users);
 })
 
 
