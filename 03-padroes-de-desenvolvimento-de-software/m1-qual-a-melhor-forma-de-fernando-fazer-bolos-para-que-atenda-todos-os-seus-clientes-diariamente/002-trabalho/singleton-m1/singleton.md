@@ -5,27 +5,27 @@ Na classe `SistemaSeguranca.ts` irei criar um único acesso para criação de um
 ```tsx
 class SistemaSegurança {
 
-		// Atributo que será utilizado para acessar a nossa única estancia.
+	// Atributo que será utilizado para acessar a nossa única estancia.
     private static instance: SistemaSeguranca;
 
-		// Atributos de credenciais para acesso da instancia.
+	// Atributos de credenciais para acesso da instancia.
     private static login: string = "softex";
     private static password: string = "sistemami7";
 
-		private constructor() {
-        console.log("Essa mensagem só aparecerá uma única vez, pois só uma instância deste objeto será criada!");
+	private constructor() {
+        console.log("Essa mensagem só aparecerá uma única vez, pois só uma instância deste 			objeto será criada!");
     }
 
-		// Único ponto de acesso para a nossa instancia
+	// Único ponto de acesso para a nossa instancia
     public static acessarBaseSecreta(login: string, password: string) {
         
-				// Antes de acessar a nossa instancia verifico as crendenciais
+		// Antes de acessar a nossa instancia verifico as crendenciais
         if (SistemaSeguranca.login == login && SistemaSeguranca.password == password) {
             
-						// Verifico se uma instancia já foi criada, se não crio uma, 
-						// caso contrário retorno a estancia que já foi criada.
-						// Aqui está a lógica que é utilizada no padrão Singleton
-						if (!this.instance) {
+			// Verifico se uma instancia já foi criada, se não crio uma, 
+			// caso contrário retorno a estancia que já foi criada.
+			// Aqui está a lógica que é utilizada no padrão Singleton
+			if (!this.instance) {
                 this.instance = new SistemaSeguranca();
             }
             console.log("Acessando base de dados super secreta ...");
