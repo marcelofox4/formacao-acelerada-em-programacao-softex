@@ -155,6 +155,10 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 01](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/01-trabalho)
 - Introduzir o padrão Prototype;
   - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/02-trabalho)
+- Introduzir o padrão Singleton;
+  - [Trabalho 002 - Exercício colocado após a resolução dos demais]()
+
+- Introduzir os princípios do SOLID.
 
 #### [Módulo 02 - Fernando conseguiu atender satisfatoriamente os seus clientes. Como ele deve organizar seus trabalhos na loja para aumentar a venda dos outros produtos?]()
 
@@ -162,6 +166,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 03](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m2-fernando-conseguiu-atender-satisfatoriamente-os-seus-clientes-como-ele-deve-organizar-seus-trabalhos-na-loja-para-aumentar-a-venda-dos-outros-produtos/03-trabalho)
 - Introduzir o padrão Adapter;
   - [Trabalho 04](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m2-fernando-conseguiu-atender-satisfatoriamente-os-seus-clientes-como-ele-deve-organizar-seus-trabalhos-na-loja-para-aumentar-a-venda-dos-outros-produtos/04-trabalho)
+- Introduzir o que são Arquiteturas de aplicativos móveis;
 - Introduzir o padrão arquitetural MVC.
 
 #### [Módulo 03 - Depois de aumentar as vendas da padaria Fernando gostaria de atender as sugestões de melhoria dos clientes. Como ele deve lidar com as sugestões?](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m3-depois-de-aumentar-as-vendas-da-padaria-Fernando-gostaria-de-atender-as-sugest%C3%B5es-de-melhoria-dos-clientes-como-ele-deve-lidar-com-as-sugest%C3%B5es)
@@ -170,5 +175,5 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 05](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m3-depois-de-aumentar-as-vendas-da-padaria-Fernando-gostaria-de-atender-as-sugest%C3%B5es-de-melhoria-dos-clientes-como-ele-deve-lidar-com-as-sugest%C3%B5es/05-trabalho)
 - Introduzir o padrão Observer;
   - [Trabalho 06](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m3-depois-de-aumentar-as-vendas-da-padaria-Fernando-gostaria-de-atender-as-sugest%C3%B5es-de-melhoria-dos-clientes-como-ele-deve-lidar-com-as-sugest%C3%B5es/06-trabalho)
-- Introduzir o Clean Arquiteture;
-- Introduzir o padrão State.
+- Introduzir o padrão State;
+- Introduzir o Clean Arquiteture.
