@@ -177,3 +177,32 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 06](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m3-depois-de-aumentar-as-vendas-da-padaria-Fernando-gostaria-de-atender-as-sugest%C3%B5es-de-melhoria-dos-clientes-como-ele-deve-lidar-com-as-sugest%C3%B5es/06-trabalho)
 - Introduzir o padrão State;
 - Introduzir o Clean Arquiteture.
+
+### Introdução a Web Servisses
+
+#### Módulo 01 - Conceituar o que é a web e seus serviços
+
+- Compreender conceitos da Web e como ela funciona;
+- Identificar as etapas históricas e as diferenças entre os serviços existentes;
+- Compreender a construção dos serviços Web;
+
+#### Módulo 02 - Definir, aplicar e implementar modelos conceituais de Serviços Web: SOAP/HTTP/REST
+
+- Conhecer o protocolo HTTP e o padrão XML usado nos Web Services;
+- Dominar o serviço SOAP e saber implementa-lo em Java;
+- Conhecer os conceitos do modelo REST;
+
+#### Módulo 03 - Conceituar e implementar os modelos REST e RESTful
+
+- Definir o modelo REST;
+- Implementar um modelo REST;
+- Implementar um modelo RESTful;
+
+#### Módulo 04 - Web Service Server
+
+- Apresentar o framework Node.js;
+- Apresentar e implementar um projeto inicial com Node Express;
+- Compreender a criação de rotas e respostas em um web service;
+- Dominar a implementação de fluxos de requisições;
+- Implementar um web service usando Node.js;
+- Definir o modelo REST e implementar usando Node.js.
