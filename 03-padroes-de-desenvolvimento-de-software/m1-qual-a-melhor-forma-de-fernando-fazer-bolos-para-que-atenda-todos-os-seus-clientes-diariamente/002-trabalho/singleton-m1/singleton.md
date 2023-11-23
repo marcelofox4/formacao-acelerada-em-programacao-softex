@@ -69,4 +69,4 @@ Com essa implementação, podemos garantir que uma única estância ou objeto da
 
 Segue o link do projeto completo:
 
-[padroes-de-projetos-m01-singleton]()
+[padroes-de-projetos-m01-singleton](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/002-trabalho/singleton-m1/padroes-de-projetos-m01-singleton)

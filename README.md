@@ -156,7 +156,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Introduzir o padrão Prototype;
   - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/02-trabalho)
 - Introduzir o padrão Singleton;
-  - [Trabalho 002 - Exercício colocado após a resolução dos demais]()
+  - [Trabalho 002 - Exercício colocado após a resolução dos demais](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software/m1-qual-a-melhor-forma-de-fernando-fazer-bolos-para-que-atenda-todos-os-seus-clientes-diariamente/002-trabalho)
 
 - Introduzir os princípios do SOLID.
 
