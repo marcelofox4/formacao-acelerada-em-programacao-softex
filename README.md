@@ -206,3 +206,12 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Dominar a implementação de fluxos de requisições;
 - Implementar um web service usando Node.js;
 - Definir o modelo REST e implementar usando Node.js.
+
+### Noções de Banco de Dados
+
+#### Módulo 01 - Bancos de dados relacionais
+
+- Compreender conceitos básicos de Banco de dados;
+- Modelar banco de dados relacionais: Conceito relacional, lógico e físico:
+  - [Trabalho 01](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m1-bancos-de-dados-relacionais/01-trabalho)
+- Normalizar um esquema de Banco de dados.
