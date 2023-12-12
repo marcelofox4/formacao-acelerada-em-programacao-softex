@@ -209,7 +209,7 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 ### Noções de Banco de Dados
 
-#### Módulo 01 - Bancos de dados relacionais
+#### [Módulo 01 - Bancos de dados relacionais](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m1-bancos-de-dados-relacionais)
 
 - Compreender conceitos básicos de Banco de dados;
 - Modelar banco de dados relacionais: Conceito relacional, lógico e físico:
