@@ -2,13 +2,13 @@
 
 ## Modelo Conceitual
 
-<img src="">
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m1-bancos-de-dados-relacionais/01-trabalho/modelagem-de-banco-de-dados-relacionais-m1/img/modelo-conceitual.png">
 
 <br>
 
 ## Modelo Lógico
 
-<img src="">
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m1-bancos-de-dados-relacionais/01-trabalho/modelagem-de-banco-de-dados-relacionais-m1/img/modelo-logico.png">
 
 <br>
 
