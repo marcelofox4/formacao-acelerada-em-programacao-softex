@@ -216,10 +216,10 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 01](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m1-bancos-de-dados-relacionais/01-trabalho)
 - Normalizar um esquema de Banco de dados.
 
-#### [Módulo 02 - Relacionamento em um banco de dados , e aplicação e validade dos dados]()
+#### [Módulo 02 - Relacionamento em um banco de dados , e aplicação e validade dos dados](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m2-comandos-de-criacao-para-banco-de-dados)
 
 - Conhecer os SGBDs mais utilizados na atualidade;
 - Conhecer a linguagem SQL;
 - Implementar um banco de dados em SQL;
 - Comandos de criação para bancos de dados:
-  - [Trabalho 02]()
+  - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m2-comandos-de-criacao-para-banco-de-dados/02-trabalho)
