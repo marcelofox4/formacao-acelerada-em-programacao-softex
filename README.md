@@ -223,3 +223,5 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Implementar um banco de dados em SQL;
 - Comandos de criação para bancos de dados:
   - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m2-comandos-de-criacao-para-banco-de-dados/02-trabalho)
+- SQL: DML;
+  - [Trabalho 03]()
