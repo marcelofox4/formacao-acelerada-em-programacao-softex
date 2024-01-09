@@ -59,13 +59,13 @@ VALUES
 SELECT * FROM autores;
 ```
 
-<img src=''/>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho/sql-dql-juncoes-m3/img/1-consultas-simples-autores.png'/>
 
 ```sql
 SELECT * FROM livros;
 ```
 
-<img src=''/>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho/sql-dql-juncoes-m3/img/2-consultas-simples-livros.png'/>
 
 <br>
 
@@ -81,7 +81,7 @@ FROM livros
 INNER JOIN autores ON autores.autorID = livros.autorID;
 ```
 
-<img src=''/>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho/sql-dql-juncoes-m3/img/3-consulta-com-juncao-inner-join.png'/>
 
 <br>
 
@@ -96,7 +96,7 @@ LEFT JOIN livros ON autores.autorID = livros.autorID
 ORDER BY autores.nome;
 ```
 
-<img src=''/>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho/sql-dql-juncoes-m3/img/4-consulta-com-juncao-left-join.png'/>
 
 <br>
 
@@ -107,7 +107,7 @@ SELECT * FROM autores
 WHERE nacionalidade = 'Irlandês';
 ```
 
-<img src=''/>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho/sql-dql-juncoes-m3/img/5-consulta-com-filtro-por-nacionalidade.png'/>
 
 <br>
 
@@ -123,4 +123,4 @@ LEFT JOIN livros ON autores.autorID = livros.autorID
 GROUP BY autores.autorID, autores.nome;
 ```
 
-<img src=''/>
+<img src='https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho/sql-dql-juncoes-m3/img/6-consulta-agregada.png'/>
