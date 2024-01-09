@@ -225,3 +225,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 02](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m2-comandos-de-criacao-para-banco-de-dados/02-trabalho)
 - SQL: DML;
   - [Trabalho 03](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m2-comandos-de-criacao-para-banco-de-dados/03-trabalho)
+
+#### [Módulo 03 - Junções entre tabelas, procedures e functions]()
+
+- Comandos e funções para consultas em Banco de Dados;
+  - [Trabalho 04]();
