@@ -146,6 +146,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Conceituar o que é tratamento de exeções.
   - [Trabalho 24](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/02-javascript/m5-programacao-orientada-a-objetos/24-trabalho)
 
+<br>
+
 ### Padrões de Desenvolvimento de Software
 
 #### [Módulo 01 - Qual seria a melhor forma de Fernando fazer os bolos para que atenda todos os seus clientes diariamente?](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/03-padroes-de-desenvolvimento-de-software)
@@ -178,6 +180,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Introduzir o padrão State;
 - Introduzir o Clean Arquiteture.
 
+<br>
+
 ### Introdução a Web Servisses
 
 #### Módulo 01 - Conceituar o que é a web e seus serviços
@@ -207,6 +211,8 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 - Implementar um web service usando Node.js;
 - Definir o modelo REST e implementar usando Node.js.
 
+<br>
+
 ### Noções de Banco de Dados
 
 #### [Módulo 01 - Bancos de dados relacionais](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m1-bancos-de-dados-relacionais)
@@ -232,3 +238,35 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
   - [Trabalho 04](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho);
 - Entender a importância da junção entre tabelas, utilizando as chaves primárias e estrangeiras implementadas em suas tabelas e como utilizá-las;
   - [Trabalho 05](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/05-trabalho);
+- Compreender e aplicar todas as condições para execução de junções;
+- Conceber e saber quando utilizar o Trigger para melhorar uma ação desejada no banco de dados;
+- Assimilar o conceito da Function e Procedure e saber a melhor hora para utilizar;
+- Entender a funcionalidade de uma Procedure e aplicá-la no dia a dia;
+- Entender a funcionalidade de uma Function e aplicá-la no dia a dia;
+
+#### Módulo 04 - Segurança de banco de dados
+
+- Entender a ideia da Integridade, Confiabilidade e Disponibilidade e entender a importância dela no dia a dia de quem trabalha com dados;
+- Compreender o backup e entender sua importância. Entender a importância de senhas fortes no dia a dia;
+- Compreender o porque da criptografia nos dados mais importantes e aplicar essa criptografia.
+
+<br>
+
+### Node.js
+
+#### Módulo 01 - Visando mostrar ao seu chefe que você sabe fazer o aplicativo, você marcou uma reunião com ele para apresentar como você estruturou as rotas de comunicação com o aplicativo. Como você faria essa explicação?
+
+- Compreender como funciona o Node.js e seu ecossistema;
+- Identificar e entender um código/projeto Node.js;
+- Entender como funciona a WEB para poder programar;
+
+#### Módulo 02 - Agora você precisa colocar a mão na massa para fazer todas as infraestruturas necessárias para rodar o projeto, depois disso explicar para seu chefe quais são os planos para fazer rodar. Como você agiria nessa situação?
+
+- Explicar e codificar usando a plataforma Node.js;
+- Compreender a biblioteca Express para requisições na web;
+- Dominar o fluxo de controle de requisições usando Express;
+
+#### Módulo 03 - Seu chefe pediu que você implementasse a API o mais rápido possível, pois ficou ansioso para ver o aplicativo funcionando. Como você iria implentar?
+
+- Apresentar no código as respostas com REST;
+- Implementar serviço WEB usando Node.js e Express;
