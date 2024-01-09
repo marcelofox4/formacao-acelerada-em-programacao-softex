@@ -229,4 +229,4 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 #### [Módulo 03 - Junções entre tabelas, procedures e functions]()
 
 - Comandos e funções para consultas em Banco de Dados;
-  - [Trabalho 04]();
+  - [Trabalho 04](https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/tree/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho);

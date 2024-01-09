@@ -55,7 +55,7 @@ VALUES
 SELECT * FROM transacoes;
 ```
 
-<img src=""/>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/1-selecao-dados.png"/>
 
 <br>
 
@@ -69,7 +69,7 @@ valor AS `Valor da transação`
 FROM transacoes;
 ```
 
-<img src=""/>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/2-renomeando-colunas.png"/>
 
 <br>
 
@@ -79,7 +79,7 @@ FROM transacoes;
 SELECT * FROM transacoes WHERE valor > 80.00;
 ```
 
-<img src=""/>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/3-filtragem-com-clausula-where.png"/>
 
 <br>
 
@@ -89,7 +89,7 @@ SELECT * FROM transacoes WHERE valor > 80.00;
 SELECT * FROM transacoes ORDER BY valor DESC;
 ```
 
-<img src=""/>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/4-ordenacao-com-clausula-order-by.png"/>
 
 <br>
 
@@ -104,7 +104,7 @@ COUNT(*) AS `Total de Transações`
 FROM transacoes;
 ```
 
-<img src=""/>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/5-agregacao-com-funcoes-sql.png"/>
 
 <br>
 
@@ -117,7 +117,7 @@ FROM transacoes
 GROUP BY produto;
 ```
 
-<img src=""/>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/6-agrupamento-com-clausula-group-by.png"/>
 
 <br>
 
@@ -132,6 +132,4 @@ FROM transacoes
 GROUP BY categoria;
 ```
 
-<img src=""/>
-
-<br>
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/05-nocoes-de-bancos-de-dados/m3-jucoes-entre-tabelas-procedures-functions/04-trabalho/sql-dql-m3/img/7-consulta-combinada.png"/>
