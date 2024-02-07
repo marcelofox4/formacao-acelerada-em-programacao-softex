@@ -8,6 +8,12 @@ O Repositório tem o objetivo de apresentar o meu desenvolvimento dentro do Prog
 
 <br>
 
+## Certificado
+
+<img src="https://github.com/marcelofox4/formacao-acelerada-em-programacao-softex/blob/main/certificado/FAP%20-%20Turma%202%3A%20Desenvolvedor%20BackEnd%20(frente).png">
+
+<br>
+
 ## Cursos
 
 ### Lógica de Programação e Orientação a Objetos
